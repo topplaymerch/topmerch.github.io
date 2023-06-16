@@ -1,0 +1,20 @@
+ body { height:100%; width:100%; }
+            
+       body { background: #44A08D; background: -webkit-linear-gradient(to right, #093637, #44A08D); background: linear-gradient(to right, #F9C336, #F9C3A7); }
+           #box { padding:20px; margin:30px auto; max-width:50%; max-height: 100%; border:1px solid #000; text-align:center; border-radius:5px; }
+    
+           a { color:#fff; text-align:center; text-decoration:none}
+                   p { margin-top:10px; }
+                   .blue { background-color:rgba(0, 0, 0, 0.3); color:#fff; }
+                   .red { background:#ff0000; color:#fff; }
+                   .yellow { background:#FFCE50; color:#000; }
+                   .whiteText { color:#fff; }
+                   .blackText { color:#000; }
+                   footer {
+                       display: flex;
+                       justify-content: center;
+                       padding: 10px;
+                       background-color:rgba(0, 0, 0, 0.3); color:#fff;
+
+                   }
+                   
