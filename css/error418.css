@@ -10,8 +10,7 @@
             .red { background:#ff0000; color:#fff; }
             .yellow { background:#FFCE50; color:#000; }
             footer {
-                display: flex;
-                justify-content: center;
+            text-align: center;
                 padding: 10px;
                 background-color:rgba(0, 0, 0, 0.3); color:#fff;
                 }
